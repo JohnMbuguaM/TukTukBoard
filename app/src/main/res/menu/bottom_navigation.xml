@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_West"
+        android:icon="@drawable/ic_west_24dp"
+        android:title="West"/>
+    <item
+        android:id="@+id/nav_Kiwanja"
+        android:icon="@drawable/ic_kiwanjak_24dp"
+        android:title="Kiwanja"/>
+    <item
+        android:id="@+id/nav_bipass"
+        android:icon="@drawable/ic_bi_pass_24dp"
+        android:title="Bi-Pass"/>
+
+</menu>
